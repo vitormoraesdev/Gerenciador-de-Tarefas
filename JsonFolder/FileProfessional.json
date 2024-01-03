@@ -1,0 +1,28 @@
+[
+  {
+    "AssociatedProfile": {
+      "Cpf": "07256959192",
+      "Name": "Vitor",
+      "Surname": "Moraes",
+      "FullName": "VITOR MORAES"
+    },
+    "Id": 1,
+    "Description": "fazer as tares de casa",
+    "CreationDate": "2024-01-03T19:26:00",
+    "CompletionDate": null,
+    "Concluded": false
+  },
+  {
+    "AssociatedProfile": {
+      "Cpf": "07256959192",
+      "Name": "Vitor",
+      "Surname": "Moraes",
+      "FullName": "VITOR MORAES"
+    },
+    "Id": 2,
+    "Description": "alimentar os animais",
+    "CreationDate": "2024-01-03T19:26:00",
+    "CompletionDate": "2024-01-07T12:30:00",
+    "Concluded": false
+  }
+]
